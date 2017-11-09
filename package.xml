@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>morph_teleop</name>
-  <version>0.1.0</version>
+  <version>0.1.1</version>
   <description>The morph_teleop package provides launch files for teleoperation of the robot using keyboard or X-box controller</description>
   <maintainer email="roaldlemmens@gmail.com">Roald Lemmens</maintainer>
   <license>GPLv3</license>
